@@ -20,7 +20,7 @@ public class GestionCategoria {
     
     public static void main(String[] args) throws DAOExcepcion {
         
-       /* 
+       /*
      Categoria catOfi=   GestionCategoria.insertar("Oficina", "Productos de oficina");
       Categoria cas=   GestionCategoria.insertar("Casa", "Productos de casa");
         System.out.println(catOfi.getId_categoria());
